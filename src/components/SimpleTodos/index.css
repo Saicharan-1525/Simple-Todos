@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.smallcontainer {
+  background-color: #ffffff;
+  padding: 4px;
+  width: 95%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.todo-text {
+  color: #ff8542;
+  font-size: 25px;
+}
+.listDetails {
+  list-style-type: none;
+}
+* {
+  font-family: Roboto;
+}

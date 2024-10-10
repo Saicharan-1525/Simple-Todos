@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list-small-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.para {
+  font-size: 15px;
+  color: #000000;
+}
+.button{
+  background-color: #ffffff;
+  border-color: #000000;
+  border-radius: 4px;
+  margin-left: 20px;
+}
